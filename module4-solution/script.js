@@ -10,5 +10,6 @@
         }
     }
     window.helloSpeaker = helloSpeaker;
+    window.byeSpeaker = byeSpeaker;
 
 })(window);
